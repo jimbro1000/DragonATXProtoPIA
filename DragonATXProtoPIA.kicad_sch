@@ -26507,7 +26507,6 @@
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 238.76 213.36 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26515,7 +26514,7 @@
 		(dnp no)
 		(uuid "01c4aa6e-f6bc-42f8-a6d2-42e34cfd77f5")
 		(property "Reference" "R11"
-			(at 241.3 214.6301 0)
+			(at 241.3 212.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26524,7 +26523,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 241.3 212.0901 0)
+			(at 241.3 214.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
